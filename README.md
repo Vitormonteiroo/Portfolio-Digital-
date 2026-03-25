@@ -44,5 +44,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-🚀 Desenvolvido por Vitor Monteiro  
-💻 Em constante evolução na área de tecnologia
+Desenvolvido por Vitor Monteiro 🚀
+Em constante evolução na área de tecnologia 💻
